@@ -93,3 +93,10 @@ let userName: string = "Asadbek";
 // const logger = getInfo()
 
 // console.log(logger);
+
+
+
+
+
+
+
